@@ -1,0 +1,36 @@
+# Quiz with Discord poll:
+
+Structure: 
+poll: {poll title} [option 1] [option 2] [option 3]
+poll: {} [A] [B] [C] [D] [E]
+
+
+
+poll: {Which are correct variable names?} [A] [B] [C] [D]
+
+poll: {Which are correct arithmetical operations?} [A] [B] [C] [D] [E]
+
+#poll: {What are the correct data types of the following expressions and values}
+
+poll: {Which are correct type conversions?} [A] [B] [C] [D] 
+
+poll: {Which lines are commented?} [A] [B] [C] [D]
+
+poll: {Which line is printed?} [A & B] [C] [D] [E]
+
+#poll: {Write the result of each operation into the fields: li = [2, 0, 1, 0]}
+
+#poll: {Write the correct operations to the sequential code below:} 
+
+poll: {Which of these while commands are correct?} [A] [B] [C] [D] [E]
+
+poll: {Which of these for commands are correct?} [A] [B] [C] [D] [E]
+
+poll: {Which of these if statements are syntactically correct?} [A] [B] [C] [D] [E] [F]
+
+poll: {} [A] [B] [C] [D] [E]
+
+poll: {} [A] [B] [C] [D] [E]
+
+poll: {} [A] [B] [C] [D] [E]
+
