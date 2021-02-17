@@ -6,6 +6,9 @@ The materials are part of a two day workshop, however you can follow each day se
 - Day 1: Data science with `pandas` and `seaborn` (chapters 01, 02, 03).  
 - Day 2: Python for biological questions with `Biopython` (chapters 04-08).  
 
+## Prerequisites
+Basic knowledge of Python. We encourage you to follow our extensive [Gentle hands-on introduction to Python programming](https://github.com/vibbits/python-data-analysis/) workshop if you have no experience at all. 
+
 ## Installation instructions
 This materials are created in Jupyter Notebooks or JupyterLab, please follow the instructions below to install Jupyter & get started. 
 
